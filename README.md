@@ -32,7 +32,7 @@ Amazon Athena
 > Get the client_id and client_secret
 > Deploy extract_code.py
 > Create an AWS Lambda function for extraction.
-> Schedule it using Amazon CloudWatch (e.g., daily or every 15 minutes using cron: */15 * * * *).
+> Schedule it using Amazon CloudWatch
 > Store raw data
 > Configure Lambda to push data to S3.
 > Set up transformation trigger
