@@ -50,4 +50,7 @@ Analyze top artists or genres
 📎 Architecture Diagram
 Refer to spotify_ETL.jpeg in this repository for a visual representation of the pipeline.
 
+![Architecture]('spotify_ETL.jpeg')
+
+
 
